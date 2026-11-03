@@ -19,6 +19,19 @@ Accept only funny **cyber / AI / computer-tech** memes. Reject politics, pure li
 Good: deploy disasters, AI hallucination, prompt injection, “temporary” fix, pager life, code review roast.  
 Bad: election memes, random reaction faces with no tech hook, adult content.
 
+
+## Preferred sources (from how high-engagement AI accounts source)
+
+Inspired by pipelines like @clairevo uses (not her posts themselves):
+
+1. **Imgflip** — classic templates (Mad Men pitch, exhausted Ben Affleck, etc.) with cyber/AI captions. Prefer templates + new captions over random scrapes.
+2. **Tumblr / Pinterest / Instagram archives** — personal or public tech/cyber humour boards; tag by topic before upload.
+3. **Generators for originals** — Midjourney, Flora (or similar) when you need a fresh panel you own; mark `licence: own` or the generator’s terms.
+4. **Cyber/AI meme accounts on X** — e.g. Programmer Humor and similar; only when you can credit `source` and reuse is fair for reply context.
+
+Do **not** bulk-mirror someone else’s timeline. Prefer templates + tagged situations that fit Callum’s cyber/AI reply style.
+
+
 ## Add one meme (checklist)
 
 1. Download or generate the image (prefer ≤1.5 MB; `webp` or `png`/`gif`).
