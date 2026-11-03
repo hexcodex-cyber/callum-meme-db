@@ -1,0 +1,7 @@
+memes/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+.DS_Store
